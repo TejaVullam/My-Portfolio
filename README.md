@@ -26,12 +26,11 @@ A sleek, responsive, and minimalist personal portfolio website built to showcase
 
 ## Deployment
 
-Because this project is a standalone HTML file without external framework dependencies, it can be hosted seamlessly on static hosting platforms such as:
-- GitHub Pages
-- Vercel
-- Netlify
+This portfolio is officially deployed and hosted on **Vercel** for blazing fast performance worldwide. 
 
-To deploy using Vercel or GitHub Pages, simply connect the repository via their dashboard and the site will deploy instantaneously.
+**Live Demo:** [https://my-portfolio-two-theta-93.vercel.app/](https://my-portfolio-two-theta-93.vercel.app/)
+
+Because the project is a lightweight, standalone HTML file without framework dependencies, any updates pushed to the repository will automatically trigger an instantaneous continuous-deployment build on Vercel.
 
 ## Contact
 
